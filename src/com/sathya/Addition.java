@@ -7,7 +7,7 @@ public class Addition {
 		int num2 = 200;
 		int num3=300;
 		int num4=400;
-		int result=num1+num2+num3;
+		int result=num1+num2+num3+num4;
 		System.out.println("Addition Of Two Numbers"+  result);
 	}
 
